@@ -1,12 +1,19 @@
 {
     "version": 1,
-
     "bingoPartyCommandConverter": {
         "except": [
-            "/pc", "/party chat", "/chat party",
-            "/p leave", "/party leave",
-            "/pl", "/p list", "/party list",
-            "/p pollanswer", "/party pollanswer", "/p answer", "/party answer" 
+            "/pc",
+            "/party chat",
+            "/chat party",
+            "/p leave",
+            "/party leave",
+            "/pl",
+            "/p list",
+            "/party list",
+            "/p pollanswer",
+            "/party pollanswer",
+            "/p answer",
+            "/party answer"
         ]
     }
-}   
+}
